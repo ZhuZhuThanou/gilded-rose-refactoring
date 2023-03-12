@@ -1,6 +1,5 @@
 This refactoring was originally created by Terry Huges.
 
-
 # Gilded Rose Refactoring Kata
 
 Hi and welcome to team Gilded Rose. As you know, we are a small inn with a
@@ -65,8 +64,6 @@ Execute:
 npm run test
 ```
 
-
-
 Output similar to the following screenshot, you are ready to
 start refactoring.
 
@@ -77,18 +74,6 @@ start refactoring.
     1 passing (4ms)
 ```
 
-## Who, What, Why?
-
-Who: [@TerryHughes](https://twitter.com/TerryHughes), [@NotMyself](https://twitter.com/NotMyself)
-
-What & Why: [Refactor This: The Gilded Rose Kata](http://iamnotmyself.com/2011/02/13/refactor-this-the-gilded-rose-kata/)
-
 ## License
 
 MIT
-
-## Suggested attribution
-
-This work is by [@TerryHughes](https://twitter.com/TerryHughes), [@NotMyself](https://twitter.com/NotMyself)
-
-The repository can be found at [https://github.com/NotMyself/GildedRose](https://github.com/NotMyself/GildedRose)
