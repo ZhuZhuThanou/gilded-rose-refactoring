@@ -1,0 +1,18 @@
+{
+  "name": "gilded-rose-refactoring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --required @babel/register"
+  },
+  "author": "",
+  "license": "ISC",
+   "devDependencies": {
+    "@babel/core": "^7.14.0",
+    "@babel/preset-env": "^7.14.0",
+    "@babel/register": "^7.13.0",
+    "chai": "^4.2.0",
+    "mocha": "^8.4.0"
+  }
+}
